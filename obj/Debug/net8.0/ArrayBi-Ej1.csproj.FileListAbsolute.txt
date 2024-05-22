@@ -12,3 +12,4 @@ C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercici
 C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArrayBi-Ej1\obj\Debug\net8.0\ArrayBi-Ej1.pdb
 C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArrayBi-Ej1\obj\Debug\net8.0\ArrayBi-Ej1.genruntimeconfig.cache
 C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArrayBi-Ej1\obj\Debug\net8.0\ref\ArrayBi-Ej1.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArrayBi-Ej1\obj\Debug\net8.0\ArrayBi-Ej1.sourcelink.json

@@ -12,6 +12,7 @@ string nota;
 System.Console.Write("Ingrese la cantidad de estudiantes: ");
 cantidad = int.Parse(Console.ReadLine()!);
 string[,] estudiantesNota = new string[2, cantidad];
+Console.Clear();
 
 
 for (int i = 0; i < cantidad; i++)
@@ -19,6 +20,8 @@ for (int i = 0; i < cantidad; i++)
     System.Console.Write($"Ingrese el nombre del estudiante {i + 1}: ");
     nombre = Console.ReadLine()!;
     estudiantesNota[0, i] = nombre;
+
+    Console.Clear();
 
     System.Console.Write($"Ingrese la nota de {estudiantesNota[0, i]}: ");
     nota = Console.ReadLine()!;
